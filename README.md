@@ -1,4 +1,3 @@
-<!-- fallback_DigitalForge_20260207083221_76164 -->
 
 # DigitalForge: Cloud-native, Multi-model Machine Learning Accelerator for Scalable AI-driven Applications, fueled by Distributed Model Synthesis Engine Implementation
 > Advanced python solution leveraging modern architecture patterns and cutting-edge technology.
